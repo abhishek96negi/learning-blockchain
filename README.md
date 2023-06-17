@@ -20,3 +20,4 @@
 1. [Hello World](/contract/1.first_program.sol)
 2. [Increment Decrement by One](/contract/2.increment_decrement_by_one.sol)
 3. [Reading and Writing to a State Variable](/contract/3.%20read_write_state_variable.sol)
+4. [Ether and Wei](/contract/4.%20ether_wei.sol)
