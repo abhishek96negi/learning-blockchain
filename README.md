@@ -25,3 +25,4 @@
 6. [Loop Program](/contract/6.loop_program.sol)
 7. [Mapping Program](/contract/7.%20mapping_program.sol)
 8. [Array Program](/contract/8.%20array_program.sol)
+9. [Enum Program](/contract/9.%20enum_program.sol)
