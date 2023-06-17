@@ -7,3 +7,4 @@
 3. [Ethereum](/doc/Ethereum.ipynb)
 4. [Web3](/doc/Web3.ipynb)
 5. [Solidity](/doc/Solidity.ipynb)
+6. [Smart Contract](/doc/Smart%20Contract.ipynb)
