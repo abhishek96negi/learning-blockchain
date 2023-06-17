@@ -30,3 +30,4 @@
 11. [Function Overloading](/contract/11.%20function_overloading.sol)
 12. [View & Pure Program](/contract/12.%20view_pure_functions.sol)
 13. [Modifier Program](/contract/13.%20modifier_function.sol)
+14. [Inheritance](/contract/14.%20inheritance_program.sol)
