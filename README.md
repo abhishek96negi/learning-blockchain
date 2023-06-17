@@ -24,3 +24,4 @@
 5. [if-else Program](/contract/5.if_else_program.sol)
 6. [Loop Program](/contract/6.loop_program.sol)
 7. [Mapping Program](/contract/7.%20mapping_program.sol)
+8. [Array Program](/contract/8.%20array_program.sol)
