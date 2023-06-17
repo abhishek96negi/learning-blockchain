@@ -11,3 +11,4 @@
 7. [Deploy Solidity Contracts in Local Ganache using Python](/doc/Deploy%20Solidity%20Contracts%20in%20Local%20Ganache%20using%20Python.ipynb)
 8. [Token](/doc/Token.ipynb)
 9. [ERC-20](/doc/ERC20.ipynb)
+10. [ERC-721](/doc/ERC-721.ipynb)
