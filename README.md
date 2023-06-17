@@ -32,3 +32,4 @@
 13. [Modifier Program](/contract/13.%20modifier_function.sol)
 14. [Inheritance](/contract/14.%20inheritance_program.sol)
 15. [Library](/contract/15.%20library_program.sol)
+16. [Error Handling](/contract/16.%20error_program.sol)
