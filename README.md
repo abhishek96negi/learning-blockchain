@@ -12,3 +12,4 @@
 8. [Token](/doc/Token.ipynb)
 9. [ERC-20](/doc/ERC20.ipynb)
 10. [ERC-721](/doc/ERC-721.ipynb)
+11. [ERC-1155](/doc/ERC-1155%20(MULTI-TOKEN%20STANDARD).ipynb)
